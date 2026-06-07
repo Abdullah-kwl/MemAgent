@@ -55,7 +55,7 @@ def create_user_info():
     CREATE TABLE IF NOT EXISTS user_info (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         name TEXT NOT NULL,
-        last_name TEXT NOT NULL,
+        last_name TEXT,
         occupation TEXT NOT NULL,
         location TEXT NOT NULL,
         age INTEGER,  -- Allow NULL values (so chatbot can fill later)
