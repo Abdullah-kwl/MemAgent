@@ -130,5 +130,13 @@ images/
 
 ![Schema 9](images/src_structure.png)
 
+## Credits
 
+This project is based on the excellent work and educational content created by Farzad Roozitalab.
 
+- Original Repository: https://github.com/Farzad-R/Agentic-LongTerm-Memory
+- Tutorial Video: https://www.youtube.com/watch?v=jw67V_gBzR0&list=WL&index=2
+
+A special thanks to Farzad Roozitalab for open-sourcing the implementation and creating such valuable educational content on AI memory systems, conversational agents, and long-term memory architectures. This repository was created as a personal learning project while studying and reproducing the concepts demonstrated in the original repository and tutorial.
+
+All core concepts, architecture, and initial implementation credit belong to the original author.
